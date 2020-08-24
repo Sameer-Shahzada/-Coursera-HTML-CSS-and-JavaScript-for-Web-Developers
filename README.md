@@ -4,5 +4,5 @@ This repository is for the assignments of the ["HTML, CSS, and Javascript for We
 ## Assignments
 Module2 Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
-- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module2_solution)
+- [Solution](https://sameer-shahzada.github.io/-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module2-solution/index.html)
 - [Source code](./module2_solution)
