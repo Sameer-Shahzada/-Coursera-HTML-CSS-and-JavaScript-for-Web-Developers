@@ -17,3 +17,9 @@ Module4 Assignment:
 - [Solution](https://sameer-shahzada.github.io/-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Module4-solution/index.html)
 - [Source code](./Module4-solution)
 
+Module4 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+- [Solution](https://sameer-shahzada.github.io/-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Module5-solution/index.html)
+- [Source code](./Module5-solution)
+
+
